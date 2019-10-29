@@ -1,0 +1,2 @@
+# Sunnittelumallit
+kurssin tehtäviä
